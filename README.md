@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Welcome to my github page😄
-🔭 I’m currently working on [django-ninja-extra](https://github.com/eadwinCode/django-ninja-extra) - Class Based Utility and more for Django Ninja
+🔭 Checkout this project, [django-ninja-extra](https://github.com/eadwinCode/django-ninja-extra) - Class Based Utility and more for Django Ninja
 <!--
 **eadwinCode/eadwinCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
