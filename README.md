@@ -1,11 +1,5 @@
 ### Hi there 👋
 ### Welcome to my github page😄
-## Check out some of my Projects:
-- 🔭 [ellar](https://github.com/eadwinCode/ellar) - New Python Web Framework, based on uvicorn. Inspired by fastapi and Nestjs
-- 🔭 [django-compressor-parceljs](https://github.com/eadwinCode/django-compressor-parceljs) - Simply enables VueJs, ReactJs, SCSS, LESS, Typescript etc on your Django project
-- 🔭 [django-ninja-extra](https://github.com/eadwinCode/django-ninja-extra) - Class Based Utility and more for Django Ninja
-- 🔭 [django-ninja-jwt](https://github.com/eadwinCode/django-ninja-jwt) - JWT Authentication for Django Ninja
-- 🔭 [ninja-schema](https://github.com/eadwinCode/ninja-schema) - Pydantic full support and model validation for Django
 <!--
 **eadwinCode/eadwinCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
