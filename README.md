@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Welcome to my github page😄
 
-### Happy new year to you.
+<p> Happy new year to you.</p>
 <!--
 **eadwinCode/eadwinCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
