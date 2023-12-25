@@ -1,6 +1,12 @@
 ### Hi there 👋
 ### Welcome to my github page😄
 
+_And Merry Christmas_
+
+_Wishing you a joyous and bright holiday season, filled with laughter, love, and festive delight!_
+
+### _Mr. Eadwin_
+
 <!--
 **eadwinCode/eadwinCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
